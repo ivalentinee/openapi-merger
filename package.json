@@ -1,0 +1,22 @@
+{
+  "name": "openapi-merger",
+  "version": "0.0.1",
+  "description": "Merges OpenAPI spec files into one",
+  "main": "index.js",
+  "bin": {
+    "openapi-merger": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vemperor/openapi-merger.git"
+  },
+  "author": "Valentine Ionov",
+  "license": "MIT",
+  "homepage": "https://github.com/vemperor/openapi-merger",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "js-yaml": "^3.12.0",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0"
+  }
+}
