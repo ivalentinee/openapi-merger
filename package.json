@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vemperor/openapi-merger.git"
+    "url": "git+https://github.com/ivalentinee/openapi-merger.git"
   },
   "author": "Valentine Ionov",
   "license": "MIT",
-  "homepage": "https://github.com/vemperor/openapi-merger",
+  "homepage": "https://github.com/ivalentinee/openapi-merger",
   "dependencies": {
     "glob": "^7.1.3",
     "js-yaml": "^3.12.0",
