@@ -15,7 +15,7 @@
   "homepage": "https://github.com/ivalentinee/openapi-merger",
   "dependencies": {
     "glob": "^7.1.3",
-    "js-yaml": "^3.12.0",
+    "js-yaml": "^4.1.1",
     "lodash": "^4.17.11",
     "minimist": "^1.2.0"
   }
